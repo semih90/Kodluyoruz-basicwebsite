@@ -1,0 +1,20 @@
+body{
+    background-color: aliceblue;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: darkblue;
+}
+li{
+    display: inline;
+    text-align: center;
+}
+img{
+    text-align: center;
+    width: 300px;
+}
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blueviolet;
+}
